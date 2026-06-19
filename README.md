@@ -64,11 +64,8 @@ The notebooks provide detailed computational workflows documenting data processi
 ## Citation
 
 Yepes S. (2026).
-
 *Layer- and regime-dependent interpretability in concept bottleneck models for single-cell transcriptomics.*
 
 DOI: https://doi.org/10.5281/zenodo.19476507
 
-## Author
 
-Sally Yepes
