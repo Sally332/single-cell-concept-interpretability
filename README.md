@@ -1,4 +1,8 @@
 # Single-Cell Concept Interpretability
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19476507.svg)](https://doi.org/10.5281/zenodo.19476507)
+![Research](https://img.shields.io/badge/type-research%20resource-blue)
+![Domain](https://img.shields.io/badge/domain-single--cell%20transcriptomics-green)
+![Focus](https://img.shields.io/badge/focus-interpretable%20AI-orange)
 
 **A rigorous evaluation framework for interpretable machine learning in single-cell transcriptomics.**
 
