@@ -12,6 +12,12 @@ Interpretability has become a central objective in biological machine learning, 
 
 This repository accompanies the study *Layer- and regime-dependent interpretability in concept bottleneck models for single-cell transcriptomics* and introduces a multi-layer framework for evaluating interpretability across distinct biological regimes.
 
+## Framework
+
+![Interpretability Framework](Figure1_Framework.png)
+
+Overview of the evaluation framework used to assess interpretability in concept bottleneck models across multiple biological regimes. The framework quantifies concept selectivity, concept-space geometry, and gene-level mechanistic support, demonstrating that structured representations do not necessarily imply mechanistic validity.
+
 ## Scientific Contributions
 
 - Introduces a multi-dimensional framework for evaluating interpretability in concept bottleneck models.
